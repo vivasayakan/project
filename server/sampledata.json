@@ -1,0 +1,114 @@
+{
+  "farmers": {
+    "-FARMER001": {
+      "farmerName": "John Doe",
+      "place": "Green Valley",
+      "numberOfAcres": 10,
+      "cropName": "Wheat",
+      "cropCultivatedDate": "2024-01-01",
+      "realTimeData": [
+        { "temperature": 25, "humidity": 60, "soilMoisture": 40, "timestamp": 1700000000000 },
+        { "temperature": 26, "humidity": 65, "soilMoisture": 42, "timestamp": 1700000600000 }
+      ]
+    },
+    "-FARMER002": {
+      "farmerName": "Jane Smith",
+      "place": "Sunny Farms",
+      "numberOfAcres": 20,
+      "cropName": "Corn",
+      "cropCultivatedDate": "2024-01-10",
+      "realTimeData": [
+        { "temperature": 30, "humidity": 55, "soilMoisture": 38, "timestamp": 1700001200000 },
+        { "temperature": 31, "humidity": 58, "soilMoisture": 36, "timestamp": 1700001800000 }
+      ]
+    },
+    "-FARMER003": {
+      "farmerName": "Alice Brown",
+      "place": "Mountain View",
+      "numberOfAcres": 15,
+      "cropName": "Rice",
+      "cropCultivatedDate": "2024-02-01",
+      "realTimeData": [
+        { "temperature": 22, "humidity": 70, "soilMoisture": 45, "timestamp": 1700002400000 },
+        { "temperature": 23, "humidity": 72, "soilMoisture": 47, "timestamp": 1700003000000 }
+      ]
+    },
+    "-FARMER004": {
+      "farmerName": "Michael Green",
+      "place": "River Side",
+      "numberOfAcres": 8,
+      "cropName": "Barley",
+      "cropCultivatedDate": "2024-03-01",
+      "realTimeData": [
+        { "temperature": 27, "humidity": 65, "soilMoisture": 40, "timestamp": 1700003600000 },
+        { "temperature": 28, "humidity": 68, "soilMoisture": 43, "timestamp": 1700004200000 }
+      ]
+    },
+    "-FARMER005": {
+      "farmerName": "David Lee",
+      "place": "Golden Acres",
+      "numberOfAcres": 25,
+      "cropName": "Soybean",
+      "cropCultivatedDate": "2024-04-01",
+      "realTimeData": [
+        { "temperature": 29, "humidity": 60, "soilMoisture": 42, "timestamp": 1700004800000 },
+        { "temperature": 30, "humidity": 62, "soilMoisture": 44, "timestamp": 1700005400000 }
+      ]
+    },
+    "-FARMER006": {
+      "farmerName": "Olivia White",
+      "place": "Sunny Hills",
+      "numberOfAcres": 12,
+      "cropName": "Tomato",
+      "cropCultivatedDate": "2024-05-01",
+      "realTimeData": [
+        { "temperature": 24, "humidity": 75, "soilMoisture": 50, "timestamp": 1700006000000 },
+        { "temperature": 25, "humidity": 77, "soilMoisture": 52, "timestamp": 1700006600000 }
+      ]
+    },
+    "-FARMER007": {
+      "farmerName": "Emily Johnson",
+      "place": "Clear Springs",
+      "numberOfAcres": 18,
+      "cropName": "Potato",
+      "cropCultivatedDate": "2024-06-01",
+      "realTimeData": [
+        { "temperature": 28, "humidity": 68, "soilMoisture": 46, "timestamp": 1700007200000 },
+        { "temperature": 29, "humidity": 70, "soilMoisture": 48, "timestamp": 1700007800000 }
+      ]
+    },
+    "-FARMER008": {
+      "farmerName": "George Clark",
+      "place": "Sunny Meadows",
+      "numberOfAcres": 30,
+      "cropName": "Oats",
+      "cropCultivatedDate": "2024-07-01",
+      "realTimeData": [
+        { "temperature": 26, "humidity": 64, "soilMoisture": 41, "timestamp": 1700008400000 },
+        { "temperature": 27, "humidity": 66, "soilMoisture": 43, "timestamp": 1700009000000 }
+      ]
+    },
+    "-FARMER009": {
+      "farmerName": "Sophia Miller",
+      "place": "Valley Ranch",
+      "numberOfAcres": 22,
+      "cropName": "Wheat",
+      "cropCultivatedDate": "2024-08-01",
+      "realTimeData": [
+        { "temperature": 23, "humidity": 60, "soilMoisture": 39, "timestamp": 1700009600000 },
+        { "temperature": 24, "humidity": 63, "soilMoisture": 41, "timestamp": 1700010200000 }
+      ]
+    },
+    "-FARMER010": {
+      "farmerName": "Lucas Scott",
+      "place": "Silver Plains",
+      "numberOfAcres": 14,
+      "cropName": "Corn",
+      "cropCultivatedDate": "2024-09-01",
+      "realTimeData": [
+        { "temperature": 32, "humidity": 59, "soilMoisture": 35, "timestamp": 1700010800000 },
+        { "temperature": 33, "humidity": 60, "soilMoisture": 37, "timestamp": 1700011400000 }
+      ]
+    }
+  }
+}
